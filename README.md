@@ -3,8 +3,8 @@
 
 
 ## Techiniques Used 
-1. spark (https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Spark.md)
-2. kafka (https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Kafka.md)
-3. flink (https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Flink.md)
-4. scala (https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Scala.md)
+1. [spark](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Spark.md)
+2. [kafka](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Kafka.md)
+3. [flink](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Flink.md)
+4. [scala](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Scala.md)
 
