@@ -1,5 +1,5 @@
 # TwitterDataProcessing 
-[中文版](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/README(%E4%B8%AD%E6%96%87%E7%89%88).md)
+[中文版](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/README(%E4%B8%AD%E6%96%87).md)
 
 ## Project Summary 
 * Implemented a real-time processor with Spark for popular Twitter hashtags 
