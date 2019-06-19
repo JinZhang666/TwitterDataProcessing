@@ -11,3 +11,6 @@
 ## how to implement 分布式计算
 1. 如何分发数据
 2. 如何分发计算
+
+## What is RDD 
+1. RDD 是只读的，分区记录的集合
