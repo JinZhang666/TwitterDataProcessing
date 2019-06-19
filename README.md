@@ -20,3 +20,10 @@
 3. [flink](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Flink.md)
 4. [scala](https://github.com/JinZhang666/TwitterDataProcessing/blob/master/Notes/Scala.md)
 
+## Project Operations Log 
+1. download scala: 使用linuxbrew这个包管理器进行下载
+2. scala basic operations: 了解了scala一些基本的操作/语言特点: * 面向对象&函数式编程并存
+3. download spark: 在apache的官网上下载了spark，spark的启动方法是到spark的文件夹里面跑一个叫做spark-shell的文件
+4. spark basic operations: 了解了通过spark可以进行的基本操作，大概就是filter/map
+5. 注册了twitter的开发者账号
+6. twitterToSpark.py
